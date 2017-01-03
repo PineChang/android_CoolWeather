@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15sp"
+    android:background="#8000">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:text="生活建议"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15sp"
+        android:textColor="#fff"
+        android:id="@+id/confort_text"
+        android:text="现在天气不错啊,可以出去愉快的玩耍,要么放风筝,要么跑步,swimmning,shopping"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15sp"
+        android:textColor="#fff"
+        android:id="@+id/car_wash__text"
+        android:text="现在天气不错啊,可以出去愉快的玩耍,要么放风筝,要么跑步,swimmning,shopping"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15sp"
+        android:textColor="#fff"
+        android:id="@+id/sport_text"
+        android:text="现在天气不错啊,可以出去愉快的玩耍,要么放风筝,要么跑步,swimmning,shopping"/>
+
+
+
+
+</LinearLayout>
